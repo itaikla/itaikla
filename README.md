@@ -10,8 +10,7 @@ I'm a software developer with a passion for building elegant and efficient web a
 * 🌱 I'm currently focusing on learning and building stable and scalable end-to-end projects with various technologies.
 * 📝 I'm interested in **blogging about software topics**, from front-end frameworks to best practices.
 
-#### Techs
-<h3 align="left">Languages and Tools:</h3>
+#### Stack
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
