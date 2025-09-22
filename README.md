@@ -63,6 +63,10 @@ I'm a software developer with a passion for building elegant and efficient web a
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
+  </a> 
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
+    <img src="" alt="c#" width="40" height="40"/> 
+  </a> 
 </p>
 
 #### Get in touch
