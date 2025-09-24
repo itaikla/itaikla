@@ -45,6 +45,9 @@ I'm a software developer with a passion for building elegant and efficient web a
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/storybook-icon.svg" alt="storybook" width="40" height="40"/> 
+  </a> 
 <!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>  --> 
