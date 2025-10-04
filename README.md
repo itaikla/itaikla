@@ -68,7 +68,7 @@ I'm a software developer with a passion for building elegant and efficient web a
   </a> 
   </a> 
     <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-    <img src="" alt="c#" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="c#" width="40" height="40"/> 
   </a> 
 </p>
 
